@@ -1,0 +1,6 @@
+{
+  "name": "ResolveAI - Entity Resolution & Record Linkage Engine",
+  "description": "Production-grade entity resolution, 17-property feature extraction, multi-pass union blocking, model training and deduplication pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

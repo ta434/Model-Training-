@@ -1,0 +1,9 @@
+{
+  "w1_name": 0.542,
+  "w2_address_containment": 0.36,
+  "w3_rare_tokens": 0.097,
+  "penalty_postal_code": 0.35,
+  "penalty_numeric_conflict": 0.35,
+  "threshold_match": 0.82,
+  "name_veto_threshold": 0.4
+}
